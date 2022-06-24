@@ -7,7 +7,8 @@
 */
 
 .personalPic {
-	width: 100px;
+	width: 300px;
+	border-radius: 50px;
 }
 
 html, body, div, span, applet, object,
