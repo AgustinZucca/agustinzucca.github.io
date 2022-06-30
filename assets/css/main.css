@@ -7,12 +7,14 @@
 */
 
 .personalPic {
+	margin-left: 15px;
 	width: 300px;
 	border-radius: 50px;
 }
 
 .nameImageTitle {
 	display: flex;
+	align-items: center;
 }
 
 html, body, div, span, applet, object,
