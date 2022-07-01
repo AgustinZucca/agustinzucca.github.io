@@ -3108,9 +3108,9 @@ body.is-ie .spotlights > section {
 }
 
 .actualTech {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .spotlights > section > .image {
