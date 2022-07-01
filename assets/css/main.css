@@ -9,7 +9,9 @@
 .personalPic {
 	margin-left: 15px;
 	width: 300px;
-	border-radius: 50px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 500px;
 }
 
 .nameImageTitle {
@@ -126,7 +128,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.772);
+		color: rgba(255, 255, 255, 0.900);
 		font-family: Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
