@@ -3103,7 +3103,14 @@ body.is-ie .spotlights > section {
 }
 
 .techIconsContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.actualTech {
 	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 
 .spotlights > section > .image {
